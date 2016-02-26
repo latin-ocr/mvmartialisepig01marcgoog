@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mvmartialisepig01marcgoog/mvmartialisepig01marcgoog_0054.png"; bbox 0 0 738 1293; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 412 674 550 810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 412 674 550 816">
+     <span class='ocr_line' id='line_1_1' title="bbox 412 674 550 810; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 412 674 550 810; x_wconf 50' lang='grc' dir='ltr'>ῑξὲέῗῑξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 530 781 550 792">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 530 781 550 792">
+     <span class='ocr_line' id='line_1_2' title="bbox 530 781 550 792; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 530 781 550 792; x_wconf 78' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 544 660 611 862">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 544 660 611 862">
+     <span class='ocr_line' id='line_1_3' title="bbox 544 660 611 862; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 544 736 611 862; x_wconf 62' lang='grc' dir='ltr'>ἓἿξνῗξ</span> <span class='ocrx_word' id='word_1_4' title='bbox 546 660 611 720; x_wconf 62' lang='grc' dir='ltr'>ῘῙιξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 411 675 468 774">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 411 675 468 774">
+     <span class='ocr_line' id='line_1_4' title="bbox 411 675 468 774; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 411 690 468 774; x_wconf 55' lang='grc' dir='ltr'>[Ξοῖὶῐ</span> <span class='ocrx_word' id='word_1_6' title='bbox 426 675 429 677; x_wconf 58' lang='lat'>&gt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 96 182 642 1094">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 96 182 642 1094">
+     <span class='ocr_line' id='line_1_5' title="bbox 96 182 642 1094; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 96 182 642 1094; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
